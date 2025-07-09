@@ -21,7 +21,7 @@ const workerConfig: WorkerConfig = {
       method: 'GET',
       target: 'https://phamhung.xyz',
       tooltip: 'School project',
-      statusPageLink: 'https://uptime.phamhung.xyz',
+      statusPageLink: 'https://phamhung.xyz',
       expectedCodes: [200],
       timeout: 10000,
       hideLatencyChart: false,
